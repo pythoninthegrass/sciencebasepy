@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sciencebasepy"
-version = "2.0.14"
+version = "2.0.15"
 description = ""
 authors = ["DOI-USGS"]
 license = "CC-BY-4.0"
